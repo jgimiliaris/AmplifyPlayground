@@ -1,0 +1,6 @@
+type Chore @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String!
+  completdTime: AWSDateTime
+  dueDate: AWSDateTime!
+} 

@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-xcode13test-staging-d65e8-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267272533:role/amplify-xcode13test-staging-d65e8-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267272533:role/amplify-xcode13test-staging-d65e8-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-xcode13test-staging-d65e8-deployment",
+      "UnauthRoleName": "amplify-xcode13test-staging-d65e8-unauthRole",
+      "StackName": "amplify-xcode13test-staging-d65e8",
+      "StackId": "arn:aws:cloudformation:eu-west-1:533267272533:stack/amplify-xcode13test-staging-d65e8/62329530-07b2-11ef-9c05-020885f1dc23",
+      "AmplifyAppId": "dqzrt3rne3vaw"
+    },
+    "categories": {
+      "auth": {
+        "xcode13test": {}
+      }
+    }
+  }
+}

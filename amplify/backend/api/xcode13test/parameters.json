@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "xcode13test",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
